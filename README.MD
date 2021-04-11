@@ -6,4 +6,4 @@ Status: Complete
 
 Preview:
 
-![Project Image](images\Project Preview.JPG)
+![Image of Project](https://github.com/Jennifer-Johnson1/tictactoeproject/blob/main/Project%20Preview.JPG)
